@@ -1,2 +1,3 @@
-# bahadir
-mulakat projesi
+# y.bahadır DEDEOĞLU
+Mülakat projemdir.
+PHP ve HTML dilleri kullanarak hazırladığım bu formu WorkCube mülakatım için oluşturmuş bulunmaktayım.
