@@ -1,0 +1,26 @@
+CREATE TABLE adaylar (
+
+  tcno INT AUTO_INCREMENT PRIMARY KEY,
+  adi VARCHAR(20) NOT NULL,
+  soyadi VARCHAR(30) NOT NULL,
+  eposta VARCHAR(50) NOT NULL,
+  HTML5 INT(3) ,
+  CSS INT(3) ,
+  JS INT(3) ,
+  PHP INT(3) ,
+  BootStrap INT(3) ,
+  Metronics INT(3) ,
+  Ajax INT(3) ,
+  JSONz INT(3) ,
+  AngularJS INT(3) ,
+  Jquery INT(3) ,
+  .NET INT(3) ,
+  CFML INT(3) ,
+  JSP INT(3) ,
+  PYTHON INT(3) ,
+  CKARE INT(3) ,
+  Cartiarti INT(3) ,
+  JAVA INT(3) ,
+  UNITY INT(3) ,
+  Arduino INT(3) 
+)
