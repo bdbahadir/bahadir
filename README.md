@@ -1,3 +1,4 @@
 # Y.Bahadır DEDEOĞLU
 Mülakat projemdir.
-PHP ve HTML dilleri kullanarak hazırladığım bu formu WorkCube mülakatım için oluşturmuş bulunmaktayım.
+Kullandığım SQL kodlarınıda ekledim.
+PHP ve HTML dillerini kullanarak hazırladığım bu formu WorkCube mülakatım için oluşturmuş bulunmaktayım.
